@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IVideos</string>
+    <string name="video01">parguela</string>
+    <string name="video02">brut</string>
+    <string name="video03">leer</string>
+    <string name="video04">bajemelo</string>
+    <string name="video05">hijo</string>
+    <string name="video06">mechero</string>
+    <string name="video07">gigante</string>
+    <string name="video08">comunista</string>
+    <string name="video09">becarios</string>
+    <string name="video10">stacy</string>
+    <string name="video11">vanidoso</string>
+    <string name="video12">orejudo</string>
+    <string name="video13">chirie</string>
+    <string name="video14">bnet</string>
+    <string name="video15">bnet2</string>
+    <string name="video16">outsider</string>
+</resources>
